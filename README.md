@@ -13,7 +13,7 @@
 <body>
 
   <img
-    src="https://i.ibb.co.com/V0T1NrtD/IMG-20260621-WA0000-1.jpg"
+    src="https://github.com/DGXEONHOZOOMD/368161/blob/main/IMG-20260621-WA0000-1.jpg"
     alt="Foto"
     width="300"
   >
