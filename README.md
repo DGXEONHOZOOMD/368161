@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Menampilkan Gambar</title>
+  
 </head>
 <body>
   <img
@@ -16,3 +16,7 @@
   >
 </body>
 </html>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+     alt="WhatsApp Logo"
+     width="50">
