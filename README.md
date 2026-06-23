@@ -25,6 +25,18 @@ _____________________________________________________________________
   <span>6289679399959</span>
 </div>
 
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head>
+<body>
+  <div style="display:flex; align-items:center; gap:8px;">
+    <i class="fa-brands fa-telegram" style="font-size:30px;color:#229ED9;"></i>
+    <span>@HOZOOSHOPm</span>
+  </div>
+</body>
+</html>
 
 
 _____________________________________________________________________
