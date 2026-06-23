@@ -17,6 +17,11 @@
 </body>
 </html>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
-     alt="WhatsApp Logo"
-     width="50">
+<div style="display:flex; align-items:center; gap:8px;">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+    alt="WhatsApp Logo"
+    width="30"
+  >
+  <span>6289679399959</span>
+</div>
